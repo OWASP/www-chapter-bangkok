@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Narudom Roongsiriwong](mailto:narudom@owasp.org)
+* [Sumedt Jitpukdebodin](mailto:Sumedt.Jitpukdebodin@owasp.org)
