@@ -13,11 +13,15 @@ OWASP Thailand Chapter เป็นกลุ่มองค์กรไม่แ
 
 ## Social Media and website
 
-- Website: [https://github.com/OWASP/www-chapter-bangkok](https://github.com/OWASP/www-chapter-bangkok)
-- Youtube: [https://www.youtube.com/@owaspthailandchapter7227](https://github.com/OWASP/www-chapter-bangkok)
-- Facebook: [https://www.facebook.com/owaspthailand](https://www.facebook.com/owaspthailand)
-- Facebook Group: [https://www.facebook.com/groups/19059288126](https://www.facebook.com/groups/19059288126)
-- Picture: [https://www.facebook.com/owaspthailand/photos](https://www.facebook.com/owaspthailand/photos)
+* Website: [https://github.com/OWASP/www-chapter-bangkok](https://github.com/OWASP/www-chapter-bangkok)
+* Youtube: [https://www.youtube.com/@owaspthailandchapter7227](https://github.com/OWASP/www-chapter-bangkok)
+* Facebook: [https://www.facebook.com/owaspthailand](https://www.facebook.com/owaspthailand)
+* Facebook Group: [https://www.facebook.com/groups/19059288126](https://www.facebook.com/groups/19059288126)
+* Picture: [https://www.facebook.com/owaspthailand/photos](https://www.facebook.com/owaspthailand/photos)
+
+## Activity
+* 25 January 2023 - Voted for OWASP Bangkok Chapter Leader
+* 30 Jaunary 2023 - Request to activate OWASP Bangkok Chapter
 
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
