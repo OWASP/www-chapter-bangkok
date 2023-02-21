@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Bangkok
-tags: example-tag, example-tag-2
+tags: example-tag
 region: Asia
 meetup-group:
 
