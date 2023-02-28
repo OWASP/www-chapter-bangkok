@@ -22,3 +22,6 @@ OWASP Thailand Chapter เป็นกลุ่มองค์กรไม่แ
 * 25 January 2023 - Voted for OWASP Bangkok Chapter Leader
 * 30 Jaunary 2023 - Request to activate OWASP Bangkok Chapter
 
+Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
+---------------------
+{% include chapter_events.html group=page.meetup-group %}
