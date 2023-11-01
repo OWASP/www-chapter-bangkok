@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP Bangkok
 tags: Bangkok
 region: Asia
+country: Thailand
 meetup-group:
 
 ---
