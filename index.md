@@ -21,6 +21,7 @@ OWASP Thailand Chapter เป็นกลุ่มองค์กรไม่แ
 
 ## Activity
 * [9 May 2024 - Zero Trust Architecture - Modern Application Segmentation : Why and How?](https://www.facebook.com/groups/owaspbangkok/posts/10160709833803127/)
+* [18 August 2023 - (OWASP x 2600 Thailand) DFIR Case Studies - Guidelines for the Frontliners](./slides/2023/2023-08-18_DFIR-Case-Studies.pdf)
 * [21 July 2023 - Top 10 CI/CD Security Risks](./slides/2023/2023-07-21_Top-10-CI-CD-Security-Risks.pdf)
 * [19 May 2023 - Intelligence with OWASP Honeytraps](./slides/2023/2023-05-19_OWASP-HoneyTraps.pdf)
 * [31 March 2023 - OWASP Monthly Meeting #1, 2023 - OWASP API Top 10](./slides/2023/2023-03-31_OWASP-API.pdf)
