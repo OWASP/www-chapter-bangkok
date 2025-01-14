@@ -20,15 +20,18 @@ OWASP Thailand Chapter เป็นกลุ่มองค์กรไม่แ
 * Picture: [https://www.facebook.com/owaspthailand/photos](https://www.facebook.com/owaspthailand/photos)
 
 ## Activity
-* [9 May 2024 - Zero Trust Architecture - Modern Application Segmentation : Why and How?](https://www.facebook.com/groups/owaspbangkok/posts/10160709833803127/)
-* [21 December 2023 - TALE OF CREST CONQUEST: CPSA/CRT](https://www.facebook.com/owaspbangkok/posts/674057134837305)
-* [17 November 2023 - DevSecOps](https://www.facebook.com/owaspbangkok/posts/655596713350014)
-* [18 August 2023 - DFIR Case Studies - Guidelines for the Frontliners](./slides/2023/2023-08-18_DFIR-Case-Studies.pdf)
-* [21 July 2023 - Top 10 CI/CD Security Risks](./slides/2023/2023-07-21_Top-10-CI-CD-Security-Risks.pdf)
-* [19 May 2023 - Intelligence with OWASP Honeytraps](./slides/2023/2023-05-19_OWASP-HoneyTraps.pdf)
-* [31 March 2023 - OWASP Monthly Meeting #1, 2023 - OWASP API Top 10](./slides/2023/2023-03-31_OWASP-API.pdf)
-* 30 Jaunary 2023 - Request to activate OWASP Bangkok Chapter
-* 25 January 2023 - Voted for OWASP Bangkok Chapter Leader
+* 2024
+	* [9 May 2024 - Zero Trust Architecture - Modern Application Segmentation : Why and How?](https://www.facebook.com/groups/owaspbangkok/posts/10160709833803127/)
+	* [24 January 2024 - Zero Trust API Access based on OAuth](#)
+* 2023
+	* [21 December 2023 - TALE OF CREST CONQUEST: CPSA/CRT](https://www.facebook.com/owaspbangkok/posts/674057134837305)
+	* [17 November 2023 - DevSecOps](https://www.facebook.com/owaspbangkok/posts/655596713350014)
+	* [18 August 2023 - DFIR Case Studies - Guidelines for the Frontliners](./slides/2023/2023-08-18_DFIR-Case-Studies.pdf)
+	* [21 July 2023 - Top 10 CI/CD Security Risks](./slides/2023/2023-07-21_Top-10-CI-CD-Security-Risks.pdf)
+	* [19 May 2023 - Intelligence with OWASP Honeytraps](./slides/2023/2023-05-19_OWASP-HoneyTraps.pdf)
+	* [31 March 2023 - OWASP Monthly Meeting #1, 2023 - OWASP API Top 10](./slides/2023/2023-03-31_OWASP-API.pdf)
+	* 30 Jaunary 2023 - Request to activate OWASP Bangkok Chapter
+	* 25 January 2023 - Voted for OWASP Bangkok Chapter Leader
 
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
