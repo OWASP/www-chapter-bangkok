@@ -13,7 +13,7 @@ meetup-group:
 OWASP Thailand Chapter เป็นกลุ่มองค์กรไม่แสวงหาผลกำไรที่ให้ความรู้ทางด้าน Application Security ให้กับบุคคลทั่วไป และกลุ่มเป้าหมายหลัก คือ กลุ่ม Developer ทั้งนี้ได้ดำเนินการมาตั้งแต่ปี 2016 เรื่อยมาโดยมีการจัดกิจกรรมเป็นลักษณะงานสัมมนารายเดือน (monthly) จนกระทั่งถึงปี 2021 ได้หยุดการดำเนินงานเพราะเนื่องด้วยการแพร่ระบาดของ COVID-19 และได้เริ่มกลับมาจัดอีกครั้งในเดือนมีนาคม 2023
 
 ## Social Media and website
-* Website: [https://github.com/OWASP/www-chapter-bangkok](https://github.com/OWASP/www-chapter-bangkok)
+* Website: [https://owasp.org/www-chapter-bangkok/](https://owasp.org/www-chapter-bangkok/)
 * Youtube: [https://www.youtube.com/@owaspthailandchapter7227](https://www.youtube.com/@owaspthailandchapter7227)
 * Facebook: [https://www.facebook.com/owaspthailand](https://www.facebook.com/owaspthailand)
 * Facebook Group: [https://www.facebook.com/groups/19059288126](https://www.facebook.com/groups/19059288126)
