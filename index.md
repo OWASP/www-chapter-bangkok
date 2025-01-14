@@ -23,7 +23,7 @@ OWASP Thailand Chapter เป็นกลุ่มองค์กรไม่แ
 * 2024
 	* 5 July 2024 - [The Race is On: Understanding and Preventing Race Condition Attacks in Web Apps](./slides/2024/2024-07-05_The-Race-is-On.pdf)
 	* 9 May 2024 - [Zero Trust Architecture - Modern Application Segmentation : Why and How?](https://www.facebook.com/owaspbangkok/posts/746976184212066)
-	* 28 March 2024 - [ero Trust Implementation on Cloud](https://www.facebook.com/owaspbangkok/posts/723473336562351)
+	* 28 March 2024 - [Zero Trust Implementation on Cloud](https://www.facebook.com/owaspbangkok/posts/723473336562351)
 	* 24 January 2024 - [Zero Trust API Access based on OAuth](https://www.facebook.com/owaspbangkok/posts/692324423010576)
 * 2023
 	* 21 December 2023 - [TALE OF CREST CONQUEST: CPSA/CRT](https://www.facebook.com/owaspbangkok/posts/674057134837305)
