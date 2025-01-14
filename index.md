@@ -21,7 +21,7 @@ OWASP Thailand Chapter เป็นกลุ่มองค์กรไม่แ
 
 ## Activity
 * 2024
-	* [9 May 2024 - Zero Trust Architecture - Modern Application Segmentation : Why and How?](https://www.facebook.com/groups/owaspbangkok/posts/10160709833803127/)
+	* [9 May 2024 - Zero Trust Architecture - Modern Application Segmentation : Why and How?](https://www.facebook.com/owaspbangkok/posts/746976184212066)
 	* [28 March 2024 - Zero Trust Implementation on Cloud](https://www.facebook.com/owaspbangkok/posts/723473336562351)
 	* [24 January 2024 - Zero Trust API Access based on OAuth](https://www.facebook.com/owaspbangkok/posts/692324423010576)
 * 2023
