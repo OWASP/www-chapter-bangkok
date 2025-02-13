@@ -21,7 +21,7 @@ OWASP Thailand Chapter เป็นกลุ่มองค์กรไม่แ
 
 ## Activity
 * 2025
-	* 7 February 2025 - [𝐁𝐫𝐞𝐚𝐤𝐢𝐧𝐠 𝐭𝐡𝐞 𝐓𝐢𝐜𝐤𝐞𝐭: 𝐀 𝐁𝐞𝐠𝐢𝐧𝐧𝐞𝐫'𝐬 𝐆𝐮𝐢𝐝𝐞 𝐭𝐨 𝐊𝐞𝐫𝐛𝐞𝐫𝐨𝐬 𝐀𝐭𝐭𝐚𝐜𝐤𝐬](./slides/2025/2025-02-07_Breaking-the-Ticket-A-Beginners-Guide-to-Kerberos-Attacks.pdf)
+	* 7 February 2025 - [Breaking the Ticket: A Beginner's Guide to Kerberos Attacks](./slides/2025/2025-02-07_Breaking-the-Ticket-A-Beginners-Guide-to-Kerberos-Attacks.pdf)
 * 2024
 	* 5 July 2024 - [The Race is On: Understanding and Preventing Race Condition Attacks in Web Apps](./slides/2024/2024-07-05_The-Race-is-On.pdf)
 	* 9 May 2024 - [Zero Trust Architecture - Modern Application Segmentation : Why and How?](https://www.facebook.com/owaspbangkok/posts/746976184212066)
