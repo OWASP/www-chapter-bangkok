@@ -21,6 +21,7 @@ OWASP Thailand Chapter เป็นกลุ่มองค์กรไม่แ
 
 ## Activity
 * 2025
+	* 25 April 2025 - [Automated Pentest: MYTHS VS REALITY](https://www.facebook.com/photo/?fbid=1140749364755286)
 	* 7 March 2025 - [How to tune AI model for Cybersecurity: Threat Detection Use Case](https://www.facebook.com/photo/?fbid=940175218225494)
 	* 7 February 2025 - [Breaking the Ticket: A Beginner's Guide to Kerberos Attacks](./slides/2025/2025-02-07_Breaking-the-Ticket-A-Beginners-Guide-to-Kerberos-Attacks.pdf)
 * 2024
