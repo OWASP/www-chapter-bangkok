@@ -21,6 +21,7 @@ OWASP Thailand Chapter เป็นกลุ่มองค์กรไม่แ
 
 ## Activity
 * 2025
+	* [Emerging trends for OWASP Top 10 Web 2025 predictions](#)
 	* 27 June 2025 - [Incident Response Plan & Playbook](https://www.facebook.com/2600Thailand/posts/1187613093402246)
 	* 9 May 2025 - [Prompt Injection](https://www.facebook.com/photo/?fbid=995575546018794)
 	* 25 April 2025 - [Automated Pentest: MYTHS VS REALITY](https://www.facebook.com/photo/?fbid=1140749364755286)
