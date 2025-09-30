@@ -24,7 +24,6 @@ OWASP Thailand Chapter เป็นกลุ่มองค์กรไม่แ
 	* 10 October 2025 - [ADCS 101: How Certificates Can Lead to Privilege Escalation](https://www.facebook.com/photo?fbid=1274661708030717)
 	* 4 September 2025 - [Machine Learning-Based Detection of Instruction Attacks on Large Language Models](https://www.facebook.com/photo/?fbid=1076902234552791)
 	* 15 August 2025 - [Deep Dive into Mobile Runtime Application Self-Protection](https://www.facebook.com/photo?fbid=1232263382270550)
-	* TBA - [Emerging trends for OWASP Top 10 Web 2025 predictions](#)
 	* 27 June 2025 - [Incident Response Plan & Playbook](./slides/2025/2025-06-27_2600TH_Incident_Response_Plan_Setthawhut.pdf)
 	* 9 May 2025 - [Prompt Injection](https://www.facebook.com/photo/?fbid=995575546018794)
 	* 25 April 2025 - [Automated Pentest: MYTHS VS REALITY](https://www.facebook.com/photo/?fbid=1140749364755286)
