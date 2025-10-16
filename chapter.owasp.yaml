@@ -1,0 +1,22 @@
+leaders:
+  - name: Narudom Roongsiriwong
+    email: narudom@owasp.org
+  - name: Sumedt Jitpukdebodin
+    email: Sumedt.Jitpukdebodin@owasp.org
+location:
+  country: Thailand
+  country_code: TH
+  region: Central Region
+  city: Bangkok
+  latitude: 13.7524938
+  longitude: 100.4935089
+name: OWASP Bangkok
+repositories:
+  - name: www-chapter-bangkok
+    url: https://github.com/OWASP/www-chapter-bangkok
+    description: OWASP Foundation Web Repository
+tags:
+  - Bangkok
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-bangkok
