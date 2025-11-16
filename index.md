@@ -21,6 +21,7 @@ OWASP Thailand Chapter เป็นกลุ่มองค์กรไม่แ
 
 ## Activity
 * 2025
+	* 28 November 2025 - [Practical LLM : Pentesters' guide to breaking an LLM](https://web.facebook.com/2600Thailand/posts/1335915251905362)
 	* 10 October 2025 - [ADCS 101: How Certificates Can Lead to Privilege Escalation](https://www.facebook.com/photo?fbid=1303421248488096)
 	* 4 September 2025 - [Machine Learning-Based Detection of Instruction Attacks on Large Language Models](https://www.facebook.com/photo/?fbid=1076902234552791)
 	* 15 August 2025 - [Deep Dive into Mobile Runtime Application Self-Protection](https://www.facebook.com/photo?fbid=1232263382270550)
