@@ -20,6 +20,8 @@ OWASP Thailand Chapter เป็นกลุ่มองค์กรไม่แ
 * Picture: [https://www.facebook.com/owaspthailand/photos](https://www.facebook.com/owaspthailand/photos)
 
 ## Activity
+* 2026
+	* 6 February 2026 - [React2Shell: The Lore behind the Exploit](https://www.facebook.com/2600Thailand/posts/1399961202167433)
 * 2025
 	* 28 November 2025 - [Practical LLM : Pentesters' guide to breaking an LLM](https://web.facebook.com/2600Thailand/posts/1335915251905362)
 	* 10 October 2025 - [ADCS 101: How Certificates Can Lead to Privilege Escalation](https://www.facebook.com/photo?fbid=1303421248488096)
