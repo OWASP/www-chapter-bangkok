@@ -21,7 +21,7 @@ OWASP Thailand Chapter เป็นกลุ่มองค์กรไม่แ
 
 ## Activity
 * 2026
-	* 13 March 2026 - [Invisible Backdoors: Detecting Malware in Open-Source Packages](./slides/2026/2026-03-13_Invisible-Backdoors-Detecting-Malware-in-Open-Source-Packages_Lai-Pradith)
+	* 13 March 2026 - [Invisible Backdoors: Detecting Malware in Open-Source Packages](./slides/2026/2026-03-13_Invisible-Backdoors-Detecting-Malware-in-Open-Source-Packages_Lai-Pradith.pdf)
 	* 6 February 2026 - [React2Shell: The Lore behind the Exploit](https://www.facebook.com/2600Thailand/posts/1399961202167433)
 * 2025
 	* 28 November 2025 - [Practical LLM : Pentesters' guide to breaking an LLM](https://web.facebook.com/2600Thailand/posts/1335915251905362)
