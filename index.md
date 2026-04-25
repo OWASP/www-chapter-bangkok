@@ -21,7 +21,7 @@ OWASP Thailand Chapter เป็นกลุ่มองค์กรไม่แ
 
 ## Activity
 * 2026
-	* 24 April 2026 - [Weaponizing N-Days: LLM-Guided Vulnerability Hunting](./slides/2026-04-24_Weaponizing-N-Days-LLM-Guided-Vulnerability-Hunting.pdf)
+	* 24 April 2026 - [Weaponizing N-Days: LLM-Guided Vulnerability Hunting](./slides/2026/2026-04-24_Weaponizing-N-Days-LLM-Guided-Vulnerability-Hunting.pdf)
 	* 13 March 2026 - [Invisible Backdoors: Detecting Malware in Open-Source Packages](./slides/2026/2026-03-13_Invisible-Backdoors-Detecting-Malware-in-Open-Source-Packages_Lai-Pradith.pdf)
 	* 6 February 2026 - [React2Shell: The Lore behind the Exploit](https://www.facebook.com/2600Thailand/posts/1399961202167433)
 * 2025
