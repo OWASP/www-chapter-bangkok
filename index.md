@@ -21,7 +21,8 @@ OWASP Thailand Chapter เป็นกลุ่มองค์กรไม่แ
 
 ## Activity
 * 2026
-	+ 19 June 2026 - [My Stupid CVE, My Bug Bounty, and Why Does Triage?](https://www.facebook.com/share/1Csm6zH4ES/)
+	* 3 July 2026 - [I learned pentest just to create labs for profit](https://www.facebook.com/owaspbangkok/posts/1324004219842590)
+	* 19 June 2026 - [My Stupid CVE, My Bug Bounty, and Why Does Triage?](https://www.facebook.com/share/1Csm6zH4ES/)
 	* 29 May 2026 - [Secret of OWASP Top 10 2025, Something you need to know](https://www.facebook.com/share/1DpyDzW7z1/)
 	* 24 April 2026 - [Weaponizing N-Days: LLM-Guided Vulnerability Hunting](./slides/2026/2026-04-24_Weaponizing-N-Days-LLM-Guided-Vulnerability-Hunting.pdf)
 	* 13 March 2026 - [Invisible Backdoors: Detecting Malware in Open-Source Packages](./slides/2026/2026-03-13_Invisible-Backdoors-Detecting-Malware-in-Open-Source-Packages_Lai-Pradith.pdf)
