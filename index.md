@@ -21,6 +21,7 @@ OWASP Thailand Chapter เป็นกลุ่มองค์กรไม่แ
 
 ## Activity
 * 2026
+	* 20 November 2026 - [The State of AppShield: Protection, Bypass, and What Comes After](https://www.facebook.com/share/p/1D3nVXJWan/)
 	* 14 August 2026 - [The Price of Visibility: Proving EDR Performance Trade-offs in Binary](https://www.facebook.com/share/p/1DRezuFik5/)
 	* 3 July 2026 - [I learned pentest just to create labs for profit](https://www.facebook.com/owaspbangkok/posts/1324004219842590)
 	* 19 June 2026 - [My Stupid CVE, My Bug Bounty, and Why Does Triage?](https://www.facebook.com/share/1Csm6zH4ES/)
